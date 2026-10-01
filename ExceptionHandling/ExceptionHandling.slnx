@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExceptionHandling.API/ExceptionHandling.API.csproj" />
+  <Project Path="ExceptionHandling.MultipleCatch/ExceptionHandling.MultipleCatch.csproj" />
+  <Project Path="ExceptionHandling.TryCatch/ExceptionHandling.TryCatch.csproj" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" />
+</Solution>

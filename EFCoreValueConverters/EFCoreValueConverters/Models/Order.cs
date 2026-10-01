@@ -1,0 +1,15 @@
+﻿using EFCoreValueConverters.Enums;
+
+namespace EFCoreValueConverters.Models
+{
+    public class Order
+    {
+        public int Id { get; set; }
+
+        public decimal Price { get; set; }
+
+        public string Address { get; set; }
+
+        public OrderState State { get; set; }
+    }
+}
