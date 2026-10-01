@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ReflectionExamples.TypeExamples/ReflectionExamples.TypeExamples.csproj" />
+  <Project Path="ReflectionExamples/ReflectionExamples.csproj" />
+</Solution>
